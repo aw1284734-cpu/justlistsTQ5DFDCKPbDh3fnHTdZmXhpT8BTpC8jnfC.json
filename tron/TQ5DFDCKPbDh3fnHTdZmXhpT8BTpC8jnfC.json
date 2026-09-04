@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "TRC20",
+  "decimals": 6,
+  "description": "USDT TRC20 token with 1 Billion supply",
+  "website": "https://tronscan.org"
+}
